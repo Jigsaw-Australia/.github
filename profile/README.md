@@ -1,12 +1,23 @@
-## Hi there 👋
+# 🧩 Jigsaw Australia 🧩
 
-<!--
+## About Us
 
-**Here are some ideas to get you started:**
+Jigsaw is a social enterprise that trains and transitions people with disability into mainstream employment.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Mission
+
+We believe that everyone deserves the opportunity to contribute their skills and talents in the workplace. Through comprehensive training programs and dedicated support, we help people with disability achieve meaningful employment in mainstream organizations.
+
+## What We Do
+
+- **Training**: We provide specialized training programs designed to develop workplace skills and build confidence
+- **Transition Support**: Our team works closely with both candidates and employers to ensure successful workplace transitions
+- **Sustainable Employment**: We focus on creating lasting employment relationships that benefit everyone involved
+
+## Learn More
+
+Visit our website: [jigsawaustralia.com.au](https://jigsawaustralia.com.au/)
+
+---
+
+*Building inclusive workplaces, one opportunity at a time.*
